@@ -14,7 +14,7 @@
         android:layout_marginEnd="28dp"
         android:layout_marginBottom="4dp"
         android:background="@drawable/nature"
-        android:text="Lab5- Hello World"
+        android:text="Lab5 - Movie Directory"
         android:textAlignment="center"
         android:textColor="@android:color/primary_text_dark_nodisable"
         android:textSize="46sp"
