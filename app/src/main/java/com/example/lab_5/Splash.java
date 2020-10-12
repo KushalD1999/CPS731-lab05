@@ -26,12 +26,10 @@ public class Splash extends AppCompatActivity {
             public void run() {
                 music.pause();
                 finish();
-
                 startActivity(new Intent(Splash.this, ItemListActivity.class));
-
             }
         };
         Timer opening= new Timer();
-        opening.schedule(task,7000);
+        opening.schedule(task,5000);
     }
 }
